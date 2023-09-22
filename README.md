@@ -23,4 +23,4 @@ The output equation has the output on the left, and the state vector, q(t), and 
 
 This text is purely copy pasted from: [https://lpsa.swarthmore.edu/Representations/SysRepSS.html](https://lpsa.swarthmore.edu/Representations/SysRepSS.html) to give some context about state space representation.
 
-Why pytorch? Just for fun.
+Why PyTorch? Just for fun :)
