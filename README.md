@@ -28,6 +28,8 @@ Why PyTorch? Just for fun :)
 Update (24-10-23): Added a Kalman Filter
 # Kalman Filter
 Kalman filtering, also known as linear quadratic estimation (LQE), is an algorithm that uses a series of measurements observed over time, including statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone, by estimating a joint probability distribution over the variables for each timeframe. 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Basic_concept_of_Kalman_filtering.svg)
+<div style="background-color: white; display: inline-block; padding: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Basic_concept_of_Kalman_filtering.svg" alt="Your Image" width="400">
+</div>
 
 lssm is just a simulation, whereas kalman_filter predicts the state.
