@@ -38,7 +38,7 @@ C = torch.tensor([[1.0, 0.0]], dtype=torch.float) #Output is the first state var
 
 D = torch.tensor([[0.0]], dtype=torch.float) #No direct feedthrough
 
-initial_state = torch.tensor([[0.0], [0.0]], dtype=torch.float)
+initial_state = torch.tensor([[0.0], [0.0]], dtype=torch.float) #Initial at (0,0)
 
 tau = 1.0
 
